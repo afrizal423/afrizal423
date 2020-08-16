@@ -6,7 +6,7 @@ Currently CS student at [University of National Development, East Java](https://
 
 I am a web developer who focuses on the backend, for example: REST API. And I'm also a fan of Linux distro distributions that are open source. Besides that I also like things related to computer networks, such as: Cloud, networking, VM. I come from the city of Surabaya, East Java Province, Indonesia.
 
-I'm currently learning [Django](https://www.djangoproject.com/) and [MongoDB](https://www.mongodb.com/). 💻
+I'm currently learning [Django](https://www.djangoproject.com/) and [Docker](https://www.docker.com/). 💻
 
 Tech Stack ✨: 
 - PHP (Laravel,Codeigniter)
@@ -14,7 +14,7 @@ Tech Stack ✨:
 - Network Admins
 
 Next I will learn 🎯:
-- Docker
+- MongoDb
 - Kubernetes
 - GoLang
 
