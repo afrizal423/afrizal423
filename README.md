@@ -2,7 +2,9 @@
 
 Currently CS student at [University of National Development, East Java](https://upnjatim.ac.id) 📖 <br>
 <img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
-<img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.webp" />
+<img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.webp" /><br>
+<img align="right" alt="GIF" height="125px" src="https://whiteundoblack.files.wordpress.com/2017/04/swarmnado.gif" />
+
 
 I am a web developer who focuses on the backend, for example: REST API. And I'm also a fan of Linux distro distributions that are open source. Besides that I also like things related to computer networks, such as: Cloud, networking, VM. I come from the city of Surabaya, East Java Province, Indonesia.
 
@@ -12,6 +14,8 @@ Tech Stack ✨:
 - PHP (Laravel,Codeigniter)
 - Python 
 - Network Admins
+
+<img align="right" alt="GIF" height="150px" src="https://i.giphy.com/media/ZVik7pBtu9dNS/200w.webp" />
 
 Next I will learn 🎯:
 - MongoDb
