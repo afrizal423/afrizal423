@@ -24,7 +24,14 @@ Next I will learn 🎯:
 
 👯 I’m looking to collaborate on Python Web app like a Django or flask and PHP like a Codeigniter or Laravel
 
-[![🦉 Afrizal's github stats](https://github-readme-stats.vercel.app/api?username=afrizal423&show_icons=true&hide_border=true&hide=issues)](https://github.com/afrizal423)
+<a href="https://github.com/arryaaas/afrizal423">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrizal423&hide=javascript&title_color=a7cbd5&icon_color=a7cbd5&text_color=ffffff&bg_color=2d3748" />
+</a>
+<a href="https://github.com/arryaaas/afrizal423">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afrizal423&show_icons=true&line_height=20&title_color=94e375&icon_color=94e375&text_color=ffffff&bg_color=2d3748" />
+</a> 
+
+<!--[![🦉 Afrizal's github stats](https://github-readme-stats.vercel.app/api?username=afrizal423&show_icons=true&hide_border=true&hide=issues)](https://github.com/afrizal423) -->
 
 
 
