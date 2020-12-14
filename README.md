@@ -1,6 +1,6 @@
 ### Hi I'm Afrizal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Currently CS student at [University of National Development, East Java](https://upnjatim.ac.id) 📖 <br>
+Currently CS student at [Universitas Pembangunan Nasional "Veteran" Jawa Timur](https://upnjatim.ac.id) 📖 <br>
 <img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
 <img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.webp" /><br>
 <img align="right" alt="GIF" height="125px" src="https://whiteundoblack.files.wordpress.com/2017/04/swarmnado.gif" />
