@@ -1,6 +1,8 @@
 ### 👋 Hi there!
 
-Hi I'm Afrizal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">. I am a web developer who focuses backend, for example: REST API. And I'm also a fan of Linux distro distributions that are open source. Besides that I also like things related to computer networks, such as: Cloud, networking, VM. I come from the city of Surabaya, East Java Province, Indonesia.
+Hi I'm Afrizal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">. I am a web developer who focuses backend, for example: REST API. And I'm also a fan of Linux distro distributions that are open source. Besides that I also like things related to computer networks, such as: Cloud, networking, VM. I come from the city of Surabaya, East Java Province, Indonesia.<br>
+![](https://komarev.com/ghpvc/?username=afrizal423)
+
 
 ## 🌱 Current Learning
 - PHP (like: Laravel,Codeigniter)
@@ -22,6 +24,8 @@ Besides that, I also want to contribute by using Golang
 - Email : [me@afrizalmy.com](mailto:me@afrizalmy.com)
 - Linkedin : [Afrizal Muhammad Yasin](https://www.linkedin.com/in/afrizal-muhammad-yasin-175919166/)
 - Website : [afrizalmy.com](https://afrizalmy.com/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=afrizal423&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <a href="https://github.com/afrizal423">
