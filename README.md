@@ -1,7 +1,7 @@
 ### 👋 Hi there!
 
-Hi I'm Afrizal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">. I am a web developer who focuses backend, for example: REST API. And I'm also a fan of Linux distro distributions that are open source. Besides that I also like things related to computer networks, such as: Cloud, networking, VM. I come from the city of Surabaya, East Java Province, Indonesia.<br>
-<!-- ![](https://komarev.com/ghpvc/?username=afrizal423) -->
+Hi I'm Afrizal 👋. I am a web developer who focuses backend, for example: REST API. And I'm also a fan of Linux distro distributions that are open source. Besides that I also like things related to computer networks, such as: Cloud, networking, VM. I come from the city of Surabaya, East Java Province, Indonesia.<br>
+![](https://komarev.com/ghpvc/?username=afrizal423)
 
 <a href="https://github.com/afrizal423">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrizal423&hide=ipynb,css,html,scss&title_color=a7cbd5&icon_color=a7cbd5&text_color=ffffff&bg_color=2d3748&count_private=true" />
@@ -36,7 +36,7 @@ Hi I'm Afrizal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 
 ### 👯 I’m looking to collaborate
 
-I’m looking to collaborate on Python Web app like a Django or flask and PHP like a Codeigniter or Laravel. <br>
+I’m looking to collaborate on  PHP like a Codeigniter or Laravel. <br>
 Besides that, I also want to contribute by using Golang
 
 ## 📫 How to reach me
