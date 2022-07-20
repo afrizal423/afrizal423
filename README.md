@@ -40,7 +40,7 @@ I’m looking to collaborate on  PHP like a Codeigniter or Laravel. <br>
 Besides that, I also want to contribute by using Golang
 
 ## 📫 How to reach me
-- Twitter : [@afrizalpatlas](https://twitter.com/afrizalpatlas)
+- Twitter : [@afrizalpatlas](https://twitter.com/zalabs02)
 - Instagram : [@afrizals.blog](https://www.instagram.com/afrizals.blog/)
 - Email : [me@afrizalmy.com](mailto:me@afrizalmy.com)
 - Linkedin : [Afrizal Muhammad Yasin](https://www.linkedin.com/in/afrizal-muhammad-yasin-175919166/)
