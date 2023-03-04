@@ -4,7 +4,7 @@ Hi I'm Afrizal 👋. I am a web developer who focuses backend, for example: REST
 ![](https://komarev.com/ghpvc/?username=afrizal423)
 
 <a href="https://github.com/afrizal423">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrizal423&hide=ipynb,css,html,scss&title_color=a7cbd5&icon_color=a7cbd5&text_color=ffffff&bg_color=2d3748&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrizal423&hide=jupyter%20notebook,css,html,scss&title_color=a7cbd5&icon_color=a7cbd5&text_color=ffffff&bg_color=2d3748&count_private=true" />
 </a>
 <a href="https://github.com/afrizal423">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=afrizal423&show_icons=true&line_height=20&title_color=94e375&icon_color=94e375&text_color=ffffff&bg_color=2d3748&count_private=true" />
