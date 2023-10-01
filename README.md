@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-Hi I'm Afrizal 👋. I am a web developer who focuses backend, for example: REST API. And I'm also a fan of Linux distro distributions that are open source. Besides that I also like things related to computer networks, such as: Cloud, networking, VM. I come from the city of Surabaya, East Java Province, Indonesia.<br>
+Hi I'm Afrizal 👋. I am a web developer. And I'm also a fan of Linux distro distributions that are open source. Besides that I also like things related to computer networks, such as: Cloud, networking, VM. I come from the city of Surabaya, East Java Province, Indonesia.<br>
 ![](https://komarev.com/ghpvc/?username=afrizal423)
 
 <a href="https://github.com/afrizal423">
